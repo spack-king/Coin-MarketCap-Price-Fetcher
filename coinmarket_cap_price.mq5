@@ -17,7 +17,6 @@ input string CoinSymbol = "BTC"; // Symbol of the coin (e.g., BTC for Bitcoin)
 input int UpdateInterval = 1;    // Update interval in minutes
 input string APIKEY = "";    // Enter your Coin Market Api key
 
-//b56bc1a9-cb3d-489f-abda-8b147f376be3
 string apiKey = APIKEY; // Place your API key here
 string baseURL = "https://pro-api.coinmarketcap.com/v2/cryptocurrency/quotes/latest";
 
