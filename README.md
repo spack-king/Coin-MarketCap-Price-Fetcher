@@ -16,5 +16,4 @@ This MQL5 script allows users to retrieve and display the current price of a spe
 This script is a useful tool for traders and investors looking to monitor cryptocurrency prices in real-time.
 
 --- 
-
-Feel free to ask if you need more details or specific aspects explained!
+- [Visit] (https://www.mql5.com/en/market/product/125023)
